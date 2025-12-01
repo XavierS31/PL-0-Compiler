@@ -170,8 +170,3 @@ gcc -O2 -std=c11 -o vm vm.c
 - Example PL0 programs  
 - README.md  
 
----
-
-## Summary
-
-This repository contains a complete PL0 compiler used in COP3402. It demonstrates the full pipeline of compilation: lexical analysis, parsing, code generation, and execution through a virtual machine. HW4 brings together the work from previous assignments into a fully functioning compiler that can run PL0 programs end to end.
